@@ -1,6 +1,6 @@
 # conversor_de_moedas
 
-A new Flutter project.
+Projeto em Flutter ensinado a consumir uma api externa usando a dependencia http.
 
 ## Getting Started
 
